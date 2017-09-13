@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="title">Register Form</string>
+    <string name="user">User</string>
+    <string name="user_h">Enter User</string>
+    <string name="pass">Password</string>
+    <string name="pass_h">Enter Password</string>
+    <string name="pass2_h">Confirm Password</string>
+    <string name="sex">Select Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="born">Born City</string>
+    <string name="date">Born Date</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="movies">Movies</string>
+    <string name="sport">Sport</string>
+    <string name="read">Read</string>
+    <string name="dance">Dance</string>
+    <string name="register">Register</string>
+    <string name="show">Empty info</string>
+    <string name="email">Email</string>
+    <string name="email_h">Enter email</string>
+    <string name="set_da">Set</string>
+
+
+    <string-array name="cities">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+
+</resources>
